@@ -6,7 +6,7 @@ SOKNA-TECH is the innovation arm of SOKNA, Egypt's first comprehensive end-of-li
 
 ## Public Projects
 
-### 📹 [course2video-pipeline](https://github.com/SOKNA-TECH/course2video-pipeline)
+### 📹 [video2course-pipeline](https://github.com/SOKNA-TECH/video2course-pipeline)
 Turn training videos into structured microlearning courses with transcripts, topic segmentation, articles, and quizzes. Runs on Google Colab.
 
 ---
