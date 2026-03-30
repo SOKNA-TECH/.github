@@ -1,8 +1,8 @@
 # SOKNA-TECH
 
-SOKNA-TECH is the innovation arm of SOKNA, Egypt's first comprehensive end-of-life care platform. Our team blends software engineering, data science, and human-centered design to tackle real-world challenges in care delivery — from intelligent dispatch to grief support tooling.
+SOKNA-TECH is the innovation arm of SOKNA, Egypt's first comprehensive end-of-life care platform. Our team blends software engineering, data science, and human-centered design to tackle real-world challenges in care delivery, from intelligent dispatch to grief support tooling.
 
-This portal is where we share our research, open-source work, and community programs. If you're a researcher, engineer, student, or just curious — you're in the right place.
+
 
 ## Public Projects
 
