@@ -1,6 +1,8 @@
 # SOKNA-TECH
 
-SOKNA-TECH is a research and development organization focused on building tools that transform how people learn. We leverage AI and automation to create engaging educational experiences — from video-to-course pipelines to internal knowledge platforms.
+SOKNA-TECH is the innovation arm of SOKNA, Egypt's first comprehensive end-of-life care platform. Our team blends software engineering, data science, and human-centered design to tackle real-world challenges in care delivery — from intelligent dispatch to grief support tooling.
+
+This portal is where we share our research, open-source work, and community programs. If you're a researcher, engineer, student, or just curious — you're in the right place.
 
 ## Public Projects
 
@@ -9,4 +11,4 @@ Turn training videos into structured microlearning courses with transcripts, top
 
 ---
 
-*Building the future of learning*
+*Building the future of care*
